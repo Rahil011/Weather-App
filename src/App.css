@@ -6,6 +6,7 @@
 
 body {
   background: url('https://static.vecteezy.com/system/resources/thumbnails/013/732/875/small/clouds-and-stars-the-sun-on-a-blue-background-children-s-illustration-of-the-sky-in-a-paper-decorative-style-3d-vector.jpg')center center/cover no-repeat ;
+  height:100%;
 }
 
 .main {
